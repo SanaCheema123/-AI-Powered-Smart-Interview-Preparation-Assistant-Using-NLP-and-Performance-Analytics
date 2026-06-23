@@ -1,4 +1,5 @@
 # 🎙️ AI-Powered Smart Interview Preparation Assistant Using NLP and Performance Analytics
+[screen-capture.webm](https://github.com/user-attachments/assets/b90361a5-2aa2-4598-b280-00ac15d84746)
 
 ## 📌 Project Overview
 
