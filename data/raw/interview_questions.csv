@@ -1,0 +1,44 @@
+question,ideal_answer,category,difficulty,role,type,keywords
+Tell me about yourself.,I am a motivated candidate with relevant skills experience and a strong interest in this role. I can explain my background achievements and how I can contribute to the organization.,HR,Easy,General,Behavioral,background communication confidence
+Why should we hire you?,You should hire me because I have the required skills a learning attitude problem solving ability and I can contribute to team goals effectively.,HR,Easy,General,Behavioral,skills contribution attitude
+What are your strengths?,My strengths include problem solving communication teamwork adaptability and the ability to learn new tools quickly.,HR,Easy,General,Behavioral,strengths teamwork adaptability
+What is your weakness?,My weakness is that I sometimes focus too much on details but I manage it by setting priorities and timelines.,HR,Medium,General,Behavioral,weakness improvement planning
+Where do you see yourself in five years?,I see myself growing professionally developing advanced skills taking responsibility and contributing to organizational success.,HR,Easy,General,Behavioral,career growth goals
+Describe a time you handled conflict.,I listened to both sides understood the problem communicated calmly and helped reach a practical solution.,HR,Medium,General,Behavioral,conflict communication solution
+What is Python?,Python is a high level interpreted programming language used for web development data science automation artificial intelligence and scripting.,Technical,Easy,Python,Technical,python programming interpreted
+What are Python lists?,A list is an ordered mutable collection in Python that can store multiple items of different data types.,Technical,Easy,Python,Technical,list mutable ordered
+What is a dictionary in Python?,A dictionary is a key value data structure used to store and retrieve data efficiently using unique keys.,Technical,Easy,Python,Technical,dictionary key value
+Explain OOP in Python.,Object oriented programming organizes code using classes and objects. It supports encapsulation inheritance polymorphism and abstraction.,Technical,Medium,Python,Technical,oop class object inheritance
+What is inheritance?,Inheritance allows a child class to reuse properties and methods of a parent class improving code reusability.,Technical,Medium,Python,Technical,inheritance class reusability
+What is overfitting in machine learning?,Overfitting occurs when a model learns training data too closely including noise and performs poorly on unseen data.,Technical,Medium,Machine Learning,Technical,overfitting generalization training
+What is underfitting?,Underfitting occurs when a model is too simple to learn the underlying pattern and performs poorly on training and testing data.,Technical,Medium,Machine Learning,Technical,underfitting simple model
+What is supervised learning?,Supervised learning trains a model using labeled data where inputs and correct outputs are provided.,Technical,Easy,Machine Learning,Technical,supervised labels model
+What is unsupervised learning?,Unsupervised learning finds patterns in data without labeled outputs such as clustering and dimensionality reduction.,Technical,Easy,Machine Learning,Technical,unsupervised clustering patterns
+What is classification?,Classification is a supervised learning task where the model predicts a discrete class label.,Technical,Easy,Machine Learning,Technical,classification labels supervised
+What is regression?,Regression is a supervised learning task where the model predicts continuous numerical values.,Technical,Easy,Machine Learning,Technical,regression continuous prediction
+Explain train test split.,Train test split divides data into training data for learning and testing data for evaluating model performance.,Technical,Easy,Machine Learning,Technical,train test evaluation
+What is accuracy?,Accuracy is the ratio of correct predictions to total predictions made by the model.,Technical,Easy,Machine Learning,Technical,accuracy metric correct
+What is precision?,Precision measures how many predicted positive cases are actually positive.,Technical,Medium,Machine Learning,Technical,precision positive predictions
+What is recall?,Recall measures how many actual positive cases the model correctly identifies.,Technical,Medium,Machine Learning,Technical,recall sensitivity positives
+What is F1 score?,F1 score is the harmonic mean of precision and recall useful when classes are imbalanced.,Technical,Medium,Machine Learning,Technical,f1 precision recall
+What is SQL?,SQL is a structured query language used to store retrieve update and manage relational database data.,Technical,Easy,SQL,Technical,sql database query
+What is a primary key?,A primary key uniquely identifies each record in a database table and cannot contain duplicate values.,Technical,Easy,SQL,Technical,primary key unique
+What is a foreign key?,A foreign key links one table to another table by referencing the primary key of another table.,Technical,Medium,SQL,Technical,foreign key relationship
+What is JOIN in SQL?,A JOIN combines rows from two or more tables based on a related column between them.,Technical,Medium,SQL,Technical,join tables relationship
+What is normalization?,Normalization organizes database tables to reduce redundancy and improve data integrity.,Technical,Medium,SQL,Technical,normalization redundancy integrity
+What is HTML?,HTML is a markup language used to structure content on web pages using tags and elements.,Technical,Easy,Web Development,Technical,html web tags
+What is CSS?,CSS is used to style web pages including colors layout typography spacing and responsiveness.,Technical,Easy,Web Development,Technical,css styling layout
+What is JavaScript?,JavaScript is a programming language used to make websites interactive and dynamic.,Technical,Easy,Web Development,Technical,javascript interactive web
+What is an API?,An API allows different software systems to communicate and exchange data using defined rules.,Technical,Medium,Web Development,Technical,api communication software
+Explain REST API.,REST API is an architectural style that uses HTTP methods like GET POST PUT and DELETE to access resources.,Technical,Medium,Web Development,Technical,rest http api
+What is data preprocessing?,Data preprocessing cleans transforms and prepares raw data for analysis or machine learning models.,Technical,Easy,Data Science,Technical,preprocessing cleaning data
+What is feature engineering?,Feature engineering creates or selects useful input variables to improve model performance.,Technical,Medium,Data Science,Technical,features engineering model
+What is data visualization?,Data visualization presents data using charts graphs and dashboards to make insights easier to understand.,Technical,Easy,Data Science,Technical,visualization charts insights
+What is NLP?,Natural Language Processing is a field of AI that helps computers understand process and generate human language.,Technical,Easy,NLP,Technical,nlp language text
+What is TF-IDF?,TF-IDF is a text representation technique that gives importance to words based on frequency in a document and rarity across documents.,Technical,Medium,NLP,Technical,tfidf text frequency
+What is cosine similarity?,Cosine similarity measures the similarity between two vectors based on the cosine of the angle between them.,Technical,Medium,NLP,Technical,cosine similarity vectors
+How do you manage deadlines?,I break tasks into smaller parts set priorities track progress and communicate early if any risk appears.,HR,Medium,General,Behavioral,deadline priority communication
+Why do you want this job?,I want this job because it matches my skills interests and career goals and allows me to contribute meaningfully.,HR,Easy,General,Behavioral,motivation job career
+How do you handle pressure?,I stay calm prioritize tasks focus on solutions and manage time effectively during pressure situations.,HR,Medium,General,Behavioral,pressure calm time
+Describe teamwork.,Teamwork means collaborating sharing responsibilities communicating clearly and supporting others to achieve a common goal.,HR,Easy,General,Behavioral,teamwork collaboration communication
+What is leadership?,Leadership is the ability to guide motivate support and influence people toward a shared objective.,HR,Medium,General,Behavioral,leadership motivate guide

@@ -1,0 +1,2 @@
+Model,Accuracy,Precision,Recall,F1 Score
+TF-IDF + Random Forest,0.7273,0.5289,0.7273,0.6124
